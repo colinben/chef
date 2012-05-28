@@ -4,7 +4,8 @@ run_list(
   "recipe[apache2]",
   "recipe[apache2::mod_ssl]",
   "recipe[apache2::mod_php5]",
-  "recipe[mysql::server]"
+  "recipe[mysql::server]",
+  "recipe[vsftpd]"
 )
 override_attributes(
   :authorization => {
