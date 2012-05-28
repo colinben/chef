@@ -1,0 +1,8 @@
+    {
+      "id": "dan",
+      "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAz0RIXgyRuqVVK/K/5EE0vi1aq4/OubyqkMUq0oSq4AGHRwwnveMom34ZIWy1r+uSWmZPFrXaT0nXJFbJ2LjM/AVG4n4b6b9kDmzi5RhBJLIL4fSHZoLayHZR+VqwF9nkJ5T1BIoRVsYvhxyDJSF7iRONe7l4rmC23KJy+9v7V/O6v7HDva9L/u28qYpEmO1LjKDmGoE1gYiO9p2BpXTVQExQrK66vzW7CLu5cJoQtwHXquuhCQzY0BfZpq3PNgK/95mQ7aIA/Kz8k9RzC5k8nXT8EQFz58xjzfs9MX57Xveeg9gHuiu5dfOzyrMTuDb/IbdtjaRJvxp/HwZNqrH+vw== dan@zoom.local",
+      "groups": [ "sysadmin", "dba", "devops" ],
+      "uid": 2001,
+      "shell": "\/bin\/zsh",
+      "comment": "DAN"
+    }
